@@ -107,9 +107,7 @@ L'utilisateur peut ainsi sélectionner différents critères et voir directement
 
 ## 🖼️ Aperçu du tableau de bord
 
-Cliquez sur l'image ci-dessous pour accéder au classeur Excel et explorer le dashboard interactif.
-
-[![Swiggy Dashboard](fullExcel_project/Images/Swiggy-Dashboard.png)](fullExcel_project/Swiggy Raw Data Excel.xlsx)
+![Swiggy Dashboard](fullExcel_project/Images/Swiggy-Dashboard.png)
 
 ## 💡 Quelques résultats intéressants
 
